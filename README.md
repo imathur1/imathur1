@@ -1,4 +1,4 @@
-### Hi I'm Ishaan 👋
+### Hi, I'm Ishaan 👋
 
 ### I am currently studying CS @ UIUC.
 
